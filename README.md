@@ -23,13 +23,13 @@ The objective is to understand:
 
 ## Data Engineering & Preprocessing
 
-✔ Removed missing values  
-✔ Merged job_skills and job_postings datasets  
-✔ Validated merge loss (< 0.002%)  
-✔ Converted date columns to datetime  
-✔ Exploded multi-skill cells into individual skill rows  
-✔ Removed statistical outliers using IQR method  
-✔ Handled large dataset efficiently  
+-> Removed missing values  
+-> Merged job_skills and job_postings datasets  
+-> Validated merge loss (< 0.002%)  
+-> Converted date columns to datetime  
+-> Exploded multi-skill cells into individual skill rows  
+-> Removed statistical outliers using IQR method  
+-> Handled large dataset efficiently  
 
 ## Exploratory Data Analysis
 
@@ -62,7 +62,7 @@ Used:
 - Matplotlib
 - Git & GitHub
 
-## 👤 Author
+## Author
 
 Krittika S 
 Aspiring Data Engineer / Data Scientist / Data Analyst
